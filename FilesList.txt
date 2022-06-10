@@ -1,4 +1,3 @@
-;Hero引擎文件列表
 \Mir200\!abuse.txt
 \Mir200\!Setup.txt
 \Mir200\Castle\0\AttackSabukWall.txt
