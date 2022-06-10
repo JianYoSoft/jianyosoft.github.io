@@ -1,0 +1,10 @@
+document.write("    <meta charset=\"utf-8\">");
+document.write("    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">");
+document.write("    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">");
+document.write("    <meta name=\"description\" content=\"\">");
+document.write("    <meta name=\"author\" content=\"Cheniy Luan\">");
+document.write("    <link rel=\"icon\" href=\".\/favicon.ico\">");
+document.write("    <link href=\"https:\/\/fastly.jsdelivr.net\/npm\/@bootcss\/v3.bootcss.com@1.0.35\/dist\/css\/bootstrap.min.css\" rel=\"stylesheet\">");
+document.write("    <link href=\"https:\/\/fastly.jsdelivr.net\/npm\/@bootcss\/v3.bootcss.com@1.0.35\/assets\/css\/ie10-viewport-bug-workaround.css\" rel=\"stylesheet\">");
+document.write("    <link href=\"https:\/\/fastly.jsdelivr.net\/npm\/@bootcss\/v3.bootcss.com@1.0.35\/examples\/jumbotron\/jumbotron.css\" rel=\"stylesheet\">");
+document.write("    <script src=\"https:\/\/fastly.jsdelivr.net\/npm\/@bootcss\/v3.bootcss.com@1.0.35\/assets\/js\/ie-emulation-modes-warning.js\"><\/script>");
