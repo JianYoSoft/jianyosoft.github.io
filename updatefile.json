@@ -1,0 +1,47 @@
+﻿{
+  "Title": "UpdateFile",
+  "PublishDate": "2022-07-06 21:45:33",
+  "PublishUrl": "https://jianyosoft.github.io/",
+  "UpgardeFiles": [
+    {
+      "Md5": "3f66beee0371cb2c174dc269de5c2904",
+      "Name": "JianYo.CDKeyBuilder",
+      "Version": "0.0.18",
+      "ProductVersion": "22.05.29",
+      "Size": "133.50 KB",
+      "Date": "2022-07-06"
+    },
+    {
+      "Md5": "5eb2a4a9b1df4417957f93fc19ed9b34",
+      "Name": "JianYo.Common.Framework",
+      "Version": "1.0.8",
+      "ProductVersion": "22.06.09",
+      "Size": "13.50 KB",
+      "Date": "2022-07-06"
+    },
+    {
+      "Md5": "e02dd9feeef75ae926bdcc8a83f8faac",
+      "Name": "JianYo.Common.Resources",
+      "Version": "1.0.3",
+      "ProductVersion": "22.06.09",
+      "Size": "13.50 KB",
+      "Date": "2022-07-06"
+    },
+    {
+      "Md5": "a94968d974bfe2897b079386f2e492e6",
+      "Name": "JianYo.M2ConfigTool",
+      "Version": "1.0.35",
+      "ProductVersion": "22.06.09",
+      "Size": "195.50 KB",
+      "Date": "2022-07-06"
+    },
+    {
+      "Md5": "e358be6f8322d2fe676c462b39cd9efa",
+      "Name": "JianYo.M2StringEditer",
+      "Version": "1.0.30",
+      "ProductVersion": "22.06.12",
+      "Size": "144.00 KB",
+      "Date": "2022-07-06"
+    }
+  ]
+}
